@@ -1,1 +1,1 @@
-AndFix热修复Demo，由于官方的demo是eclipse项目结构的，而且还要手工patch导入到手机来测试，非常不方便，所以就有了这个demo了，点击按钮一键修复bug
+AndFix热修复Demo，由于官方的demo是eclipse项目结构的，而且还要手工patch导入到手机来测试，非常不方便，所以就有了这个demo了，我把补丁文件放到网上，点击按钮一键修复bug，作为参考项目和兼容性测试都是极好的demo
